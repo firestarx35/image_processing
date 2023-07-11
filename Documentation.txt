@@ -1,0 +1,8 @@
+Compile and Install:
+    Under the same directory with this file, run command: make
+
+Run and Use:
+    Run the generated main.exe by double clicking.
+    Follow the guide of instructions to use the tool, one thing worth noticing is that the inserted path should be absolute. 
+    Check index.html in ./html to see the code documentation.
+	
